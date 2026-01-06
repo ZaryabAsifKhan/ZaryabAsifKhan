@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A MERN-Stack project.<br><br>👯 I’m looking to collaborate on: Open-source MERN projects or any creative React.js frontend challenges.<br><br>🤝 I’m looking for help with: Advanced MongoDB aggregation pipelines and refining my backend API architecture.<br><br>🌱 I’m currently learning: MERN Stack (MongoDB, Express, React, Node.js) and state management using Redux.<br><br>💬 Ask me about: React hooks, conditional rendering, and integrating REST APIs.<br><br>⚡ Fun fact: I love debugging almost as much as I love building there’s no better feeling than fixing a persistent bug!
+🔭 I’m currently working on:  MERN-Stack project.<br><br>👯 I’m looking to collaborate on: Open-source MERN projects or any creative React.js frontend challenges.<br><br>🤝 I’m looking for help with: Advanced MongoDB aggregation pipelines and refining my backend API architecture.<br><br>🌱 I’m currently learning: MERN Stack (MongoDB, Express, React, Node.js) and state management using Redux.<br><br>💬 Ask me about: React hooks, conditional rendering, and integrating REST APIs.<br><br>⚡ Fun fact: I love debugging almost as much as I love building there’s no better feeling than fixing a persistent bug!
 
 
 ## 🌐 Socials:
