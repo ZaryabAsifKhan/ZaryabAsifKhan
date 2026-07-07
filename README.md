@@ -10,14 +10,14 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZaryabAsifKhan&theme=dark&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=ZaryabAsifKhan&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
 <!-- <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZaryabAsifKhan&theme=dark&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabAsifKhan&theme=dark" width="48%" alt="GitHub Streak Alternative" />
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=ZaryabAsifKhan&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
 </p> -->
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZaryabAsifKhan&theme=dark&show_icons=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabAsifKhan&theme=dark" width="48%" alt="GitHub Streak Alternative" />
+</p> 
 
 ### ✍️ Random Dev Quote
 <p align="center">
