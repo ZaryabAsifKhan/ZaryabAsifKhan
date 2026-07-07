@@ -10,10 +10,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaryabAsifKhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="Zaryab's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaryabAsifKhan&theme=dark&hide_border=false" width="48%" alt="Zaryab's GitHub Streak" />
-</p>
+![Zaryab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabAsifKhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![Zaryab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaryabAsifKhan&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 <p align="center">
